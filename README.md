@@ -1,7 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+I+am+Max+from+Sorcara;A+Web+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?center=true&lines=Hello!+I+am+Max+from+Sorcara;A+Web+Engineer)](https://git.io/typing-svg)
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sorcara_max&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sorcara_max&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+[![My Skills](https://skillicons.dev/icons?i=vue,react,vite,vitest,vuetify,nodejs,pnpm,yarn,ts,js,html,css,webstorm)](https://skillicons.dev)
 
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sorcara-max" /> </div>
 
